@@ -200,9 +200,9 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.36667</tempo>
+            <tempo>1.3625</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 82
+            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 81.75
 </b></text>
             </Tempo>
           <Rest>
